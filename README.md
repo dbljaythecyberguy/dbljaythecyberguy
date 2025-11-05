@@ -1,4 +1,4 @@
-## Hi there, my name is Jared Jackson, also known as dbljaythecyberguy(pronounced as double Jay). 👋
+## Hi there! My name is Jared Jackson, also known as dbljaythecyberguy. Welcome to my portfolio! 👋
 
 <!--
 **dbljaythecyberguy/dbljaythecyberguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
