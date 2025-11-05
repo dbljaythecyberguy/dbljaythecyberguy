@@ -3,12 +3,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a long time tech enthusiast, who's served as my entire family's personal IT support person for decades. I've designed, & built desktops. I've upgraded/replaced hard drives, memory, & batteries on laptops. I have experience setting up home networks with WiFi routers, network attached storage, and various smart devices and end-points. I'm currently working on homelabbing with Windows Server & clients VMs, utilizing Active Directory to set up a Domain Controller with multiple Users, Computers, & Groups organizational units. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
