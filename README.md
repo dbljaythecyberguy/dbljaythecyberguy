@@ -9,7 +9,7 @@ I am a long time tech enthusiast, who's served as my entire family's personal IT
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goal is to become a highly skilled IT Support Analyst/Help Desk Technician at your MSP, or Enterprise company. I am sure you will see that my previous experience combined with my skills acquired through hands-on projects will give your team a tremendous advantage in this high paced business environment. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
