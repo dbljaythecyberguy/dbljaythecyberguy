@@ -57,5 +57,5 @@ My goal is to become a highly skilled IT Support Analyst/Help Desk Technician at
 </div>
 
 ## Projects
-- Detection Lab
+- Disk Cloning
 - SOC Automation Project
