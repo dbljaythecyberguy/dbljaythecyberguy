@@ -5,7 +5,7 @@
 
 ## Introduction
 
-I am a long time tech enthusiast, who's served as my entire family's personal IT support person for decades. I've designed, & built desktops. I've upgraded/replaced hard drives, memory, & batteries on laptops. I have experience setting up home networks with WiFi routers, network attached storage, printers, and various smart devices and end-points. I'm currently working on homelabbing with Windows Server & client VMs, utilizing Active Directory to set up a Domain Controller with multiple users, computers, groups, & organizational units. 
+I am a long time tech enthusiast, who's served as my entire family's personal IT support person for decades. I've designed, & built desktops. I've upgraded/replaced hard drives, memory, & batteries on laptops. I have experience setting up home networks with WiFi routers, network attached storage, printers, and various smart devices and end-points. I'm currently working on homelabbing with Windows Server & client VMs, utilizing Active Directory to set up a Domain Controller with multiple users, computers, groups, & organizational units. Professionally, I am a courier for an express package delivery company. I have worked there for 20+ years, in multiple cities throughout the U.S. I an accustomed to working under high pressure situations with tight deadlines, and I am also used to adjusting my work priorities at a moments notice. Our saying at work is that "the only constant is change."   
 
 ## Objective
 
@@ -17,11 +17,11 @@ My goal is to become a highly skilled IT Support Analyst/Help Desk Technician at
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Disk Cloning          | <a href="https://github.com/dbljaythecyberguy/Disk-Clone/blob/main/README.md">Disk Cloning Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Active Directory Administration  |
+| Ticketing System Setup & Usage   |
+| Network Segmentation with VLans & Subnets |
+| Homelab - Ubuntu Server          |
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
